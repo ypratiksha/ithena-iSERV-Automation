@@ -10,5 +10,11 @@
     "priority": "Emergency",
     "titlePrefix": "Emergency Electrical Repair - Conveyor System",
     "description": "Critical electrical failure detected in conveyor system. Immediate repair required to restore operations."
+  },
+
+  "combinedValidation": {
+    "pastDate": "2025-11-10",
+    "specialSubject": "!@#$%^&*()_+-=[]{}|;:',.<>?/`~ <script>alert('XSS')</script> Subject",
+    "specialDescription": "!@#$%^&*() <script>alert('XSS')</script> '; DROP TABLE tickets; -- Description with special chars"
   }
 }
