@@ -1,0 +1,23 @@
+{
+  "appointment": {
+    "title": "appointment for test of laptop",
+    "description": "laptop",
+    "start_date": "5",
+    "start_month": "11",
+    "start_year": "2025",
+    "start_hour": "05",
+    "start_minute": "30",
+    "start_meridiem": "PM",
+    "end_date": "10",
+    "end_month": "11",
+    "end_year": "2025",
+    "end_hour": "10",
+    "end_minute": "00",
+    "end_meridiem": "AM",
+    "ticket": "1125400000 - issue with conveyor",
+    "service_report": "SR1125100000: Final 1",
+    "customer_location": "Acme HQ : 144 Main St,",
+    "assignee": "John Doe"
+  }
+}
+
