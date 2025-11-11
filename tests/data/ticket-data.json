@@ -1,0 +1,14 @@
+{
+  "ticket": {
+    "customer": "Acme Corp",
+    "user": "Alice Smith",
+    "equipment": "Conveyor: Serial # ACME-",
+    "accountable": "John Doe",
+    "assignee": "John Doe",
+    "category": "Electrical",
+    "type": "Breakdown Repair",
+    "priority": "Emergency",
+    "titlePrefix": "Emergency Electrical Repair - Conveyor System",
+    "description": "Critical electrical failure detected in conveyor system. Immediate repair required to restore operations."
+  }
+}
