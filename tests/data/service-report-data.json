@@ -1,0 +1,11 @@
+{
+  "serviceReport": {
+    "reportType": "Fixed Fee & Materials Service",
+    "titlePrefix": "SR for Laptop machine",
+    "customer": "Acme Corp",
+    "user": "alice.smith@abc.com",
+    "assignee": "Technical Support (Primary), Electrical (Primary)",
+    "dateGridCell": "11",
+    "ticket": "1125400004 - Weekly Machine"
+  }
+}
