@@ -1,0 +1,10 @@
+{
+  "provision": {
+    "username": "johndoe",
+    "password": "123456",
+    "customer": "Acme Corp",
+    "equipment": "ITH / Conveyor",
+    "serialNumber": "SR7282",
+    "site": "Acme HQ"
+  }
+}

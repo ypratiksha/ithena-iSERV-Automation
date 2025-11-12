@@ -1,0 +1,9 @@
+{
+  "equipment": {
+    "equipmentName": "ITH-CONVEYOR",
+    "equipmentType": "Family",
+    "customer": "Acme Corp",
+    "site": "Acme HQ",
+    "serialNumber": "SR1003893"
+  }
+}
